@@ -1,0 +1,7 @@
+Flask==1.1.1
+numpy==1.22.0
+opencv_python==4.5.5.62
+Pillow==9.5.0
+PyAutoGUI==0.9.53
+Werkzeug==0.16.1
+itsdangerous==2.0.1

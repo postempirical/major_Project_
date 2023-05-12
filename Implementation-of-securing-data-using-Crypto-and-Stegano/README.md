@@ -37,19 +37,19 @@ sending data over insecure channels.
 
 # How To Run The Project :
 
-Make Dirctory Crypto_Project : <br/>
-`mkdir Crypto_Project`
+Make Dirctory major_Project_ : <br/>
+`mkdir major_Project_`
 
  <br/>
  
 Move Inside the Directory:   <br/>
-`cd Crypto_Project`
+`cd major_Project_`
 
  <br/>
  
  
 Clone The Repo: <br/>
-`git clone https://github.com/Awanit512/Implementation-of-securing-data-using-Crypto-and-Stegano`
+`---`
 
 
  <br/>
